@@ -27,6 +27,7 @@ This page is a collection of my personal works and creative projects. I hope you
 
 ## Works
 
+---
 
 ### 🎬 Project 1 — *Where the Gaze Lands*
 
@@ -48,6 +49,7 @@ Because where we look often reveals where our heart truly belongs.
 
 So, **whom is the bride looking at?**
 
+---
 
 ### 🏠 Project 2 — *Untitled (Red Brick House)*
 
@@ -74,9 +76,9 @@ to make it look as if this peaceful scene belongs to a story yet to be told.
 
 What kind of lives might these three families be living inside this book?
 
+---
 
-
-## 🐝 Project 3 *First Flight*
+### 🐝 Project 3 *First Flight*
 
 ![First Flight](assets/works/first_flight_main.jpg)
 
