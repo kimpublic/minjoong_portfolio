@@ -32,6 +32,8 @@ This page is a collection of my personal works and creative projects. I hope you
 
 ![Where the Gaze Lands](assets/works/where_the_gaze_lands_main.jpg)
 
+> *“Our eyes follow our hearts.”*
+
 This was my very first modeling project created in Maya — my first encounter with 3D art.  
 At that time, my third sister got married, and I wanted to make something to celebrate her wedding.
 
@@ -47,6 +49,30 @@ Because where we look often reveals where our heart truly belongs.
 So, **whom is the bride looking at?**
 
 
+### 🏠 Project 2 — *Untitled (Red Brick House)*
+
+![Untitled (Red Brick House)](assets/works/red_brick_house_main.jpg)
+
+> *“Every home holds a story — even the ones we only dream about.”*
+
+When I was a child, the neighborhood I grew up in was filled with **red brick houses**.  
+They stood along narrow alleyways — unorganized, yet full of warmth and familiarity.  
+My family moved frequently when I was young. We never owned a house.  
+(Thankfully, we’ve now settled down in one place.)  
+
+As a child, I didn’t like moving all the time.  
+I often wished that one of those red brick houses could be *ours*.  
+So, in this work, I recreated that *imaginary home* from my childhood.
+
+Since the streetlights are on, it must be evening.  
+This house belongs to **three families** — one in the basement, one on the first floor, and one on the second.  
+All the windows are lit, which makes me imagine that each family is enjoying dinner together tonight.
+
+Even a single image can hold countless stories.  
+That’s why I placed this house on top of an open book —  
+to make it look as if this peaceful scene belongs to a story yet to be told.
+
+What kind of lives might these three families be living inside this book?
 
 
 
