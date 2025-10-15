@@ -25,6 +25,34 @@ This page is a collection of my personal works and creative projects. I hope you
 
 ---
 
+## Works
+
+
+## 🎬 Project 1 — *Where the Gaze Lands*
+
+![Where the Gaze Lands](assets/works/where_the_gaze_lands_main.jpg)
+
+This was my very first modeling project created in Maya — my first encounter with 3D art.  
+At that time, my third sister got married, and I wanted to make something to celebrate her wedding.
+
+When a father walks his daughter down the aisle, countless emotions must cross his mind.  
+He blesses her happiness while realizing that he is no longer her strongest protector.  
+In that moment, he might feel a quiet sense of loss or emotions too deep to describe.  
+I wanted to capture that fragile yet profound moment.
+
+This piece depicts **three figures** — the bride, the groom, and the bride’s father.  
+While the father’s and groom’s gazes are clearly directed, **the bride’s gaze is intentionally left unseen**.  
+Because where we look often reveals where our heart truly belongs.  
+
+So, **whom is the bride looking at?**
+
+
+
+
+
+
+---
+
 ## Contact
 
 - 🔗 **LinkedIn:** [www.linkedin.com/in/minjoong](https://www.linkedin.com/in/minjoong)  
