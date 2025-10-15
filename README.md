@@ -3,11 +3,12 @@
 
 ---
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-
-  <img src="assets/profile.jpg" alt="Minjoong Kim" width="200" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
-
-  <div>
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="assets/profile.jpg" alt="Minjoong Kim" width="200" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
 
 Hello! I’m **Minjoong Kim**, currently studying **Computer Science (Games & Animation Emphasis)** at **Brigham Young University (BYU)**.  
 
@@ -20,8 +21,9 @@ This page is a collection of my personal works and creative projects. I hope you
 
 > **Tools:** Autodesk Maya | Substance Painter
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
