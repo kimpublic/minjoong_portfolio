@@ -27,7 +27,6 @@ This page is a collection of my personal works and creative projects. I hope you
 
 ## Works
 
----
 
 ### 🎬 Project 1 — *Where the Gaze Lands*
 
