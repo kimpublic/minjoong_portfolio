@@ -76,6 +76,30 @@ What kind of lives might these three families be living inside this book?
 
 
 
+## 🐝 Project 3 *First Flight*
+
+![First Flight](assets/works/first_flight_main.jpg)
+
+> *“The world waits for those who dare to fly.”*
+
+This project is one of my personal favorites. It was quite challenging to express the tiny hairs on the bee’s body, but I’m quite satisfied with how it turned out.
+
+We all have our **first steps** moments filled with both excitement and fear such as our first day at school or our first leap into something new.  
+(Though, of course, none of us remember the day we were born.)
+
+I wanted to express that thrilling feeling of a beginning through **bees**.  
+What might a young bee feel as it leaves its hive for the first time?  
+Perhaps the older bees welcome the newcomers  
+sometimes gently, sometimes sternly preparing them for the challenges of the world outside.
+
+To me, the adult bees watching the baby bee resemble **my four older sisters**.  
+I imagine they must have looked at me the same way when I was newly born into this world.
+
+What kind of experiences will this young bee encounter?  
+I hope it reaches the flower safely.
+
+
+
 
 ---
 
