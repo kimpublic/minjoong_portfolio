@@ -103,7 +103,7 @@ I hope it reaches the flower safely.
 
 ### ☎️ Project 4 | Korean Phone Booth
 
-![First Flight](assets/works/KoreanPhoneBooth.png)
+![First Flight](assets/works/KoreanPhoneBooth.jpg)
 
 “Small acts, when multiplied by millions of people, can transform the world.”
  - Howard Zinn
