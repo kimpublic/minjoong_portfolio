@@ -99,7 +99,35 @@ I imagine they must have looked at me the same way when I was newly born into th
 What kind of experiences will this young bee encounter?  
 I hope it reaches the flower safely.
 
+---
 
+### ☎️ Project 4 | Korean Phone Booth
+
+![First Flight](assets/works/KoreanPhoneBooth.png)
+
+“Small acts, when multiplied by millions of people, can transform the world.”
+ - Howard Zinn
+
+I grew up in South Korea, and I do not know much about public phone booth outside of Korea, but there is one thing I vividly remember about the old public phone booths from my childhood.
+
+Sometimes, the receiver was not properly hung up, resting instead on top of the phone booth.
+And occasionally, there would be a small coin left behind such as a 10-won coin, worth only a few cents in U.S. currency.
+This was not a mistake. It was a quiet act of consideration.
+The remaining call time or spare change was intentionally left for the next person.
+
+Today, not only in Korea but around the world, conflict, misunderstanding, and division continue to grow.
+In a world that often feels harsh and distant, I wanted to express the idea of small, human kindness through this old public phone booth.
+
+The receiver left on top of the booth invites curiosity.
+Who was the last person using this phone?
+What kind of conversation were they having before they left?
+
+The booth is covered with traces of time, scratched surfaces, and other subtle signs of use.
+Each mark hints at a story that once passed through this place.
+
+Through this piece, I hope viewers pause for a moment and reflect.
+What stories do these traces tell you?
+And how might a small act of care quietly connect one stranger to another?
 
 
 ---
