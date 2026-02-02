@@ -105,8 +105,7 @@ I hope it reaches the flower safely.
 
 ![First Flight](assets/works/KoreanPhoneBooth.jpg)
 
-“Small acts, when multiplied by millions of people, can transform the world.”
- - Howard Zinn
+> *“Small acts, when multiplied by millions of people, can transform the world.”* - Howard Zinn
 
 I grew up in South Korea, and I do not know much about public phone booth outside of Korea, but there is one thing I vividly remember about the old public phone booths from my childhood.
 
