@@ -27,7 +27,14 @@ This page is a collection of my personal works and creative projects. I hope you
 
 ## Works
 
+## Projects
 
+- [Project 1 — Where the Gaze Lands](#project1)
+- [Project 2 — Red Brick House](#project2)
+- [Project 3 — First Flight](#project3)
+- [Project 4 — Korean Phone Booth](#project4)
+
+<a id="project1"></a>
 ### 🎉 Project 1  |  *Where the Gaze Lands*
 
 ![Where the Gaze Lands](assets/works/where_the_gaze_lands_main.jpg)
@@ -49,7 +56,7 @@ Because where we look often reveals where our heart truly belongs.
 So, **whom is the bride looking at?**
 
 ---
-
+<a id="project2"></a>
 ### 🏠 Project 2  |  *Untitled (Red Brick House)*
 
 ![Untitled (Red Brick House)](assets/works/red_brick_house_main.jpg)
@@ -76,7 +83,7 @@ to make it look as if this peaceful scene belongs to a story yet to be told.
 What kind of lives might these three families be living inside this book?
 
 ---
-
+<a id="project3"></a>
 ### 🐝 Project 3  |  *First Flight*
 
 ![First Flight](assets/works/first_flight_main.jpg)
@@ -100,7 +107,7 @@ What kind of experiences will this young bee encounter?
 I hope it reaches the flower safely.
 
 ---
-
+<a id="project4"></a>
 ### ☎️ Project 4 | Korean Phone Booth
 
 ![First Flight](assets/works/KoreanPhoneBooth.jpg)
