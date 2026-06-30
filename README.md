@@ -19,7 +19,7 @@ I also adore **musicals** and **animation**, especially **musical animation**.
 That’s why I chose to major in **CS Animation at BYU**.  
 This page is a collection of my personal works and creative projects. I hope you enjoy browsing!
 
-> **Tools:** Autodesk Maya | Substance Painter
+> **Tools:** Autodesk Maya | Substance Painter | Houdini
   </tr>
 </table>
 
