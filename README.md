@@ -146,6 +146,14 @@ And how might a small act of care quietly connect one stranger to another?
 ![Japanese Udon Shop](assets/works/modular_2.jpg)
 
 ---
+<a id="project6"></a>
+### ☎️ Project 6 | Reshading: Wooden Crate
+* **Base Model**: [Poly Haven - Wooden Crate 02](https://polyhaven.com)
+* **Focus**: UV Mapping, Reshading, and Look Development
+
+<video src="/assets/works/video.mov" controls width="100%"></video>
+
+---
 
 ## Contact
 
