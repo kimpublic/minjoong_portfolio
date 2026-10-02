@@ -33,6 +33,8 @@ This page is a collection of my personal works and creative projects. I hope you
 - [Project 2 — Red Brick House](#project2)
 - [Project 3 — First Flight](#project3)
 - [Project 4 — Korean Phone Booth](#project4)
+- [Project 5 — Japanese Udon Shop](#project5)
+- [Project 6 — Shaded Wooden Crate](#project6)
 
 <a id="project1"></a>
 ### 🎉 Project 1  |  *Where the Gaze Lands*
