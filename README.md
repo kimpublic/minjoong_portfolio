@@ -151,9 +151,9 @@ And how might a small act of care quietly connect one stranger to another?
 * **Base Model**: [Poly Haven - Wooden Crate 02](https://polyhaven.com)
 * **Focus**: UV Mapping, Reshading, and Look Development
 
-![Crate_1](assets/works/output.001.png)
-![Crate_2](assets/works/output.002.png)
-![Crate_3](assets/works/output.003.png)
+![Crate_1](assets/works/crate_001.png)
+![Crate_2](assets/works/crate_002.png)
+![Crate_3](assets/works/crate_003.png)
 
 ---
 
