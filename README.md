@@ -151,7 +151,7 @@ And how might a small act of care quietly connect one stranger to another?
 * **Base Model**: [Poly Haven - Wooden Crate 02](https://polyhaven.com)
 * **Focus**: UV Mapping, Reshading, and Look Development
 
-<video src="/assets/works/KimMinjoong_ShadedObject.mov" controls width="100%"></video>
+<video src="/assets/works/KimMinjoong_ShadedObject_best.mp4" controls width="100%"></video>
 
 ---
 
